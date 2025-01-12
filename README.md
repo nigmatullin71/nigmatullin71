@@ -2,6 +2,6 @@
 
 
 - 🔭 I’m currently working on **FinTech StartUp**
-- 🌱 I’m currently learning **Web3,NextJS** 
+- 🌱 I’m currently learning **Web3,Next.JS** 
 
 
